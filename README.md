@@ -1,6 +1,6 @@
 # react-native-colored-percentage-circle
 
-React Native Version >= 0.75
+React Native Version >= 0.70
 This is a fork of percentage circle so that it can work with typescript and more updated react native as it was outdated.Putting in some extra functionalities so that it can change the color in sync with the percentage (or not). Feel free to contribute
 
 ### Options

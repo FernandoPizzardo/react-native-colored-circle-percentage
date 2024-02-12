@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "react-native-colored-circle-percentage",
+    "slug": "react-native-colored-circle-percentage",
+    "version": "0.0.1",
+    "description": "react native percentage colored circle",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
