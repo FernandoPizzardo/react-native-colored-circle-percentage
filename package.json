@@ -1,34 +1,29 @@
 {
-  "name": "react-native-percentage-circle",
-  "version": "1.0.7",
-  "description": "react native percentage circle and also be a progress bar",
+  "name": "react-native-colored-circle-percentage",
+  "version": "alpha-0.0.1",
+  "description": "react native percentage colored circle",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JackPu/react-native-percentage-circle.git"
+    "url": "git+https://github.com/FernandoPizzardo/react-native-colored-circled-percentage"
   },
   "keywords": [
     "percentage",
+    "colored",
+    "react-native",
     "circle",
     "progress",
     "bar"
   ],
-  "author": "jack pu",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JackPu/react-native-percentage-circle/issues"
-  },
-  "homepage": "https://github.com/JackPu/react-native-percentage-circle#readme",
-  "dependencies": {
-    "react": "^16.3.2"
-  },
+  "author": "FernandoPizzardo",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/FernandoPizzardo/react-native-colored-circled-percentage",
   "devDependencies": {
     "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
-    "react-dom": "^16.3.2",
-    "react-native-mock": "^0.3.1"
+    "enzyme-adapter-react-16": "^1.1.1"
   }
 }
