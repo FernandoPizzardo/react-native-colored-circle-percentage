@@ -1,6 +1,6 @@
 {
   "name": "react-native-colored-circle-percentage",
-  "version": "alpha-0.0.1",
+  "version": "0.0.1",
   "description": "react native percentage colored circle",
   "main": "index.js",
   "scripts": {
