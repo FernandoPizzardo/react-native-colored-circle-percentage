@@ -1,10 +1,10 @@
 {
   "name": "react-native-colored-circle-percentage",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "react native percentage colored circle",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "watchman watch index.tsx"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "expo": "^50.0.6",
+    "fb-watchman": "^2.0.2",
     "react": "^18.2.0",
     "react-native": "^0.73.4",
     "typescript": "^5.3.3"
